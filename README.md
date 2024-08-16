@@ -1,12 +1,12 @@
 # Matteo Tomičić
 
-👨‍💻 As a full-stack developer with over five years of experience, I've had the opportunity to work with a wide range of clients on various projects, from small businesses to large corporations.
+👨‍💻 As a full-stack developer with over five years of experience, I've had the privilege of working on various projects for clients ranging from small businesses to large corporations.
 
-I take pride in delivering projects that are not only visually stunning but also optimized for performance and usability. By leveraging the latest technologies and tools, I ensure that the websites and applications I develop are responsive, user-friendly, and accessible across all devices and platforms.
+I am passionate about building websites and applications that are visually compelling and optimized for performance, scalability, and usability. By leveraging cutting-edge technologies, I ensure that the solutions I develop are responsive, user-friendly, and accessible across all devices and platforms.
 
-Throughout my career, I've developed a passion for staying up-to-date with the latest trends and best practices in web development. I'm committed to continuous learning and improvement, which allows me to deliver innovative solutions and exceed client expectations.
+Staying current with the latest trends and best practices in web and application development is a key priority for me. I am committed to continuous learning and improvement, which enables me to create innovative, efficient solutions that exceed client expectations.
 
-Overall, I'm a dedicated and results-driven developer who is passionate about creating high-quality, user-friendly websites and applications that deliver tangible results for my clients.
+In every project, I bring a results-driven approach, with a focus on delivering high-quality digital products that provide real value to clients and users alike.
 
 ✉️ - [tomicic.matteo7@gmail.com](mailto:tomicic.matteo7@gmail.com)
 
